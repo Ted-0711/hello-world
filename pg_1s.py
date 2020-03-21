@@ -1,5 +1,7 @@
 import pygame
 import sys
+
+
 # 初始化pygame
 pygame.init()
 size = width, height = 600, 400
@@ -48,3 +50,5 @@ while True:
     # pygame.time.delay(10)
     # 设置帧率
     clock.tick(200)
+
+    # test for git
