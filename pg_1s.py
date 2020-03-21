@@ -52,3 +52,4 @@ while True:
     clock.tick(200)
 
     # test for git for a second time
+    # test for git on vscode
