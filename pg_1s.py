@@ -1,7 +1,5 @@
 import pygame
 import sys
-
-
 # 初始化pygame
 pygame.init()
 size = width, height = 600, 400
